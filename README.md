@@ -1,14 +1,5 @@
 # MERN Stack E-commerce Project 
-MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features.
-
-🔥 Features :
-- Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
-- Secure Card Payments / Cash payments
-- Admin Panel - Add/Edit Orders. Add/Edit Products
-- Sorting, Filtering, and Pagination queries using Mongoose
-- Authentication with Passport JS strategies
-- Order Emails, Reset Password Emails
-- User Profile and user orders
+MERN E-Commerce  with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features.
 
 🔥 Technical Details :
 - React 18 with Tailwind CSS
@@ -25,4 +16,12 @@ MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Clou
 - Email using Nodemailer - using GMail SMTP system
 - Payments using Stripe - PaymentIntent based custom flow
 
+🔥 Features :
+- Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
+- Secure Card Payments / Cash payments
+- Admin Panel - Add/Edit Orders. Add/Edit Products
+- Sorting, Filtering, and Pagination queries using Mongoose
+- Authentication with Passport JS strategies
+- Order Emails, Reset Password Emails
+- User Profile and user orders
 
